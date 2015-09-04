@@ -435,9 +435,9 @@ Realistic50ns13TeVCollisionZeroTeslaVtxSmearingParameters = cms.PSet(
     Alpha = cms.double(0.0),
     SigmaZ = cms.double(5.3),
     TimeOffset = cms.double(0.0),
-    X0 = cms.double(0.08535),
+    X0 = cms.double(0.08533),
     Y0 = cms.double(0.16973),
-    Z0 = cms.double(-1.223)
+    Z0 = cms.double(-1.2230)
 )
 
 # From 2015B 3.8T data
